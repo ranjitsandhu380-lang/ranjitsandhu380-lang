@@ -6,7 +6,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Java+Developer;Full+Stack+Developer;AI+Explorer;DSA+%7C+LeetCode+Enthusiast;Future+Software+Engineer" />
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=blue" />
+<img src="https://komarev.com/ghpvc/?username=ranjitsandhu280-lang&style=for-the-badge&color=blue" />
 
 </div>
 
@@ -65,9 +65,9 @@
 
 <p align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=ranjitsandhu380-lang&show_icons=true&theme=tokyonight"/>
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranjitsandhu380-lang&layout=compact&theme=tokyonight"/>
 
 </p>
 
@@ -77,7 +77,7 @@
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=ranjitsandhu380-lang&theme=tokyonight"/>
 
 </p>
 
@@ -97,8 +97,8 @@
 
 # 📫 Connect With Me
 
-- GitHub: https://github.com/YOUR_USERNAME
-- LinkedIn: YOUR_LINK
+- GitHub: https://github.com/gagandeep1
+- LinkedIn: https://www.linkedin.com/in/gagandeep-sandhu-b2824839a/
 - LeetCode: https://leetcode.com/u/Gagandeep0_1/
 
 ---
